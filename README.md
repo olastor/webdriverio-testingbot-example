@@ -5,3 +5,5 @@ Please run like
 ```
 $ TB_KEY=<key> TB_SECRET=<secret> yarn test
 ```
+
+**UPDATE: This issue is now fixed if you update to version >= 5.8.4**
